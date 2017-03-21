@@ -1,2 +1,2 @@
 # Temperature Control in Prolog
-Convert Celcius to Fahrenheit and determine if it is too high
+Conversion from Celcius to Fahrenheit and determining if it is too high
